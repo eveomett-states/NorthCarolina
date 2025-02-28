@@ -5,7 +5,7 @@ Use of this project is further governed by the terms of the [Creative Commons At
 
 # North Carolina Json
 
-This shapefile was processed by Professor Ellen Veomett and her student Arbie Hsu using the corresponding jupyter notebook.  As part of the cleaning process, precincts were nested within counties and small rook adjacencies (under 30.5 m) were changed to queen adjacencies.
+This shapefile was processed by Professor Ellen Veomett and her student Arbie Hsu using the corresponding jupyter notebook.  As part of the cleaning process, precincts were nested within counties and small rook adjacencies (under 30 m) were changed to queen adjacencies.
 
 # **Sources**
 All data retrieved 02/21/25:
